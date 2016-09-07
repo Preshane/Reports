@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para/>
+  <para/>
+  <para>-&lt;Highlight Report&gt;</para>
+  <para>        -&lt;Data Required&gt;</para>
+  <para>                &lt;Task&gt;Task Name&lt;/Task&gt;</para>
+  <para>                &lt;Sub Task&gt;Sub Task Name&lt;/Sub Task&gt;</para>
+  <para>                &lt;Work Package&gt;Work Package&lt;/Work Package&gt;</para>
+  <para>                &lt;Resource&gt;Resource Assigned&lt;/Resource&gt;</para>
+  <para>                &lt;Commit&gt;Date of Commit&lt;/Commit&gt;</para>
+  <para>                &lt;Percentage&gt;Percentage Completed&lt;/Percentage&gt;</para>
+  <para>                &lt;ECD&gt;Expected Date of Completeion&lt;/ECD&gt;</para>
+  <para>&lt;/Highlight Report&gt;</para>
+</article>

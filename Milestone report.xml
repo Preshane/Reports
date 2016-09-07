@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para/>
+  <para/>
+  <para>-&lt;Milestone Report&gt;</para>
+  <para>        &lt;Data Required&gt;</para>
+  <para>                &lt;Task&gt;Task Name&lt;/Task&gt;</para>
+  <para>                &lt;Resource&gt;Resource Assigned&lt;/Resource&gt;</para>
+  <para>                &lt;Date&gt;Date at completion&lt;/Date&gt;</para>
+  <para>                &lt;Dependent&gt;Dependent Task Name&lt;/Dependent&gt;</para>
+  <para>                &lt;Dependency&gt;Dependency Task Name&lt;/Dependency&gt;</para>
+  <para>&lt;/Milestone Report&gt;</para>
+</article>
